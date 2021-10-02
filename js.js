@@ -1,8 +1,10 @@
+var iklan1 = function(){
 atOptions = {
-		'key' : 'a9e06a70b6ac8d3e7f9f008fa4391242',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://ascertaincrescenthandbag.com/a9e06a70b6ac8d3e7f9f008fa4391242/invoke.js"></scr' + 'ipt>');
+	'key' : '02ff8f2278af73dbc98f463467d0f0c0',
+	'format' : 'iframe',
+	'height' : 50,
+	'width' : 320,
+	'params' : {}
+};
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://installationtray.com/02ff8f2278af73dbc98f463467d0f0c0/invoke.js"></scr' + 'ipt>');
+}
