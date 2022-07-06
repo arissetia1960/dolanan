@@ -16,3 +16,4 @@ let iklan3 = function(){
 	document.write('<scr' + 'ipt type="text/javascript" async="async" data-cfasync="false" src="http' + (location.protocol === 'https:' ? 's' : '') + '://ascertaincrescenthandbag.com/e714275550027be2ef6eb61c702a5293/invoke.js"></scr' + 'ipt>');
 	document.write('<div id="container-e714275550027be2ef6eb61c702a5293"></div>');
 }
+
