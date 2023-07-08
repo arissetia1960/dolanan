@@ -1,12 +1,12 @@
 let iklan1 = function(){
 atOptions = {
-		'key' : 'a9e06a70b6ac8d3e7f9f008fa4391242',
+		'key' : '80ca87f8813a501d8aabf7a59fa25265',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://romancemind.com/a9e06a70b6ac8d3e7f9f008fa4391242/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/80ca87f8813a501d8aabf7a59fa25265/invoke.js"></scr' + 'ipt>');
 }
 let iklan2 = function(){
 	atOptions = {
