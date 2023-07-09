@@ -26,6 +26,7 @@ let iklan728pertama = function(){
 	atOptions = {
 		'key' : '842fa4960db6bc726f7142d536c56686',
 		'format' : 'iframe',
+		'class' : 'slide',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
@@ -36,6 +37,7 @@ let iklan728kedua = function(){
 	atOptions = {
 		'key' : '3c63ad8da5b1dea2a0d09d234e81dc8e',
 		'format' : 'iframe',
+		'class' : 'slide',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
@@ -46,6 +48,7 @@ let iklan728ketiga = function(){
 	atOptions = {
 		'key' : '4bbf9956d99ec3fdf52a365e9615f37a',
 		'format' : 'iframe',
+		'class' : 'slide',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
@@ -56,6 +59,7 @@ let iklan728keempat = function(){
 	atOptions = {
 		'key' : 'b5c0ad324a8fcf52e586c48ee64ebcbe',
 		'format' : 'iframe',
+		'class' : 'slide',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
@@ -66,6 +70,7 @@ let iklan728kelima = function(){
 	atOptions = {
 		'key' : 'e2cea86a4a8c38c9a674a82f9f3c1672',
 		'format' : 'iframe',
+		'class' : 'slide',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
