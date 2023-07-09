@@ -26,7 +26,6 @@ let iklan728pertama = function(){
 	atOptions = {
 		'key' : '842fa4960db6bc726f7142d536c56686',
 		'format' : 'iframe',
-		'class' : 'slide',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
