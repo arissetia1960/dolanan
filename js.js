@@ -77,3 +77,13 @@ let iklan728kelima = function(){
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/e2cea86a4a8c38c9a674a82f9f3c1672/invoke.js"></scr' + 'ipt>');
 }
+let iklan468pertama = function(){
+	atOptions = {
+		'key' : 'f64d9b2f3705b712bc5b315edd23cf54',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/f64d9b2f3705b712bc5b315edd23cf54/invoke.js"></scr' + 'ipt>');
+}
