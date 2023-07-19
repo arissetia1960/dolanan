@@ -158,6 +158,16 @@ let random = function(){
     if(i<=0) return random();
     return i;
 }
+let iklan300pertama = function(){
+	atOptions = {
+		'key' : '50c7dc79a92cdf95a415bc2b13cd7678',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/50c7dc79a92cdf95a415bc2b13cd7678/invoke.js"></scr' + 'ipt>');
+}
 let iklan468 = [iklan468pertama(),iklan468kedua(),iklan468ketiga(),iklan468keempat(),iklan468kelima()];
 let iklan728 = [iklan728pertama(),iklan728kedua(),iklan728ketiga(),iklan728keempat(),iklan728kelima()];
 let iklan320 = [iklan320pertama(),iklan320kedua(),iklan320ketiga(),iklan320keempat(),iklan320kelima()];
