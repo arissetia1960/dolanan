@@ -203,18 +203,3 @@ let iklan300kelima = function(){
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/911a292f1d3b4df1c94af3b09e2837c0/invoke.js"></scr' + 'ipt>');
 }
-let iklan468 = function(x){
-	x = iklan468pertama();
-	return x;
-}
-/*
-let random = function(){
-	let i  = Math.floor(Math.random() * (5 - 0 + 1) + 0);
-    if(i<=0) return random();
-    return i;
-}
-let iklan468 = [iklan468pertama(),iklan468kedua(),iklan468ketiga(),iklan468keempat(),iklan468kelima()];
-let iklan728 = [iklan728pertama(),iklan728kedua(),iklan728ketiga(),iklan728keempat(),iklan728kelima()];
-let iklan320 = [iklan320pertama(),iklan320kedua(),iklan320ketiga(),iklan320keempat(),iklan320kelima()];
-let iklan300 = [iklan300pertama(),iklan300kedua(),iklan300ketiga(),iklan300keempat(),iklan300kelima()];
-*/
