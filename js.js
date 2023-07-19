@@ -163,6 +163,46 @@ let iklan300pertama = function(){
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/50c7dc79a92cdf95a415bc2b13cd7678/invoke.js"></scr' + 'ipt>');
 }
+let iklan300kedua = function(){
+	atOptions = {
+		'key' : 'c8890df9dea39bcb4bd2f5e770c95479',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/c8890df9dea39bcb4bd2f5e770c95479/invoke.js"></scr' + 'ipt>');
+}
+let iklan300ketiga = function(){
+	atOptions = {
+		'key' : 'a9e06a70b6ac8d3e7f9f008fa4391242',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/a9e06a70b6ac8d3e7f9f008fa4391242/invoke.js"></scr' + 'ipt>');
+}
+let iklan300keempat = function(){
+	atOptions = {
+		'key' : '80ca87f8813a501d8aabf7a59fa25265',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/80ca87f8813a501d8aabf7a59fa25265/invoke.js"></scr' + 'ipt>');
+}
+let iklan300kelima = function(){
+	atOptions = {
+		'key' : '911a292f1d3b4df1c94af3b09e2837c0',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/911a292f1d3b4df1c94af3b09e2837c0/invoke.js"></scr' + 'ipt>');
+}
 let random = function(){
 	let i  = Math.floor(Math.random() * (5 - 0 + 1) + 0);
     if(i<=0) return random();
