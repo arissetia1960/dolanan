@@ -203,6 +203,11 @@ let iklan300kelima = function(){
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/911a292f1d3b4df1c94af3b09e2837c0/invoke.js"></scr' + 'ipt>');
 }
+function iklan468(x){
+	if(x=1){
+	iklan468pertama();
+	}
+}
 /*
 let random = function(){
 	let i  = Math.floor(Math.random() * (5 - 0 + 1) + 0);
