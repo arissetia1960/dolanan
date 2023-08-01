@@ -203,3 +203,7 @@ let iklan300kelima = function(){
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/911a292f1d3b4df1c94af3b09e2837c0/invoke.js"></scr' + 'ipt>');
 }
+let nativevertical = function(){
+<script async="async" data-cfasync="false" src="//pl15296721.highwaycpmrevenue.com/6d7791499fbd465d73e0b856cd8aac68/invoke.js"></script>
+<div id="container-6d7791499fbd465d73e0b856cd8aac68"></div>
+}
