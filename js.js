@@ -203,3 +203,4 @@ let iklan300kelima = function(){
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/911a292f1d3b4df1c94af3b09e2837c0/invoke.js"></scr' + 'ipt>');
 }
+var native1 = '<script async="async" data-cfasync="false" src="//pl18418137.toprevenuegate.com/2e03f5429081687195a9c6131f039e09/invoke.js"></script><div id="container-2e03f5429081687195a9c6131f039e09"></div>';
