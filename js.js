@@ -205,19 +205,7 @@ let iklan300kelima = function(){
 }
 // ads.js
 
-var adContainerId = 'adsContainer';
-var adScriptSrc = '//pl18418137.toprevenuegate.com/2e03f5429081687195a9c6131f039e09/invoke.js';
+// ads.js
 
-function muatNative1() {
-    var adContainer = document.getElementById(adContainerId);
-
-    if (adContainer) {
-        // Create the script element
-        var adScript = document.createElement('script');
-        adScript.async = true;
-        adScript.src = adScriptSrc;
-
-        // Append the script element to the container
-        adContainer.appendChild(adScript);
-    }
-}
+var adContainer = document.getElementById('adsContainer');
+adContainer.innerHTML = '<script async="async" data-cfasync="false" src="//pl18418137.toprevenuegate.com/2e03f5429081687195a9c6131f039e09/invoke.js"></script><div id="container-2e03f5429081687195a9c6131f039e09"></div>';
