@@ -6,7 +6,7 @@ let iklan320pertama = function(){
 		'width' : 320,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/14940547191dddf07486cd9772707e11/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/14940547191dddf07486cd9772707e11/invoke.js"></scr' + 'ipt>');
 }
 let iklan320kedua = function(){
 	atOptions = {
@@ -16,7 +16,7 @@ let iklan320kedua = function(){
 		'width' : 320,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/508d80590d87535b619e675a70f1558f/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/508d80590d87535b619e675a70f1558f/invoke.js"></scr' + 'ipt>');
 }
 let iklan320ketiga = function(){
 	atOptions = {
@@ -26,7 +26,7 @@ let iklan320ketiga = function(){
 		'width' : 320,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/a688bb60a332ccefb2f4589c98c68902/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/a688bb60a332ccefb2f4589c98c68902/invoke.js"></scr' + 'ipt>');
 }
 let iklan320keempat = function(){
 	atOptions = {
@@ -36,7 +36,7 @@ let iklan320keempat = function(){
 		'width' : 320,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/c037b3eb53f6cf9cbedf06ad8118aee5/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/c037b3eb53f6cf9cbedf06ad8118aee5/invoke.js"></scr' + 'ipt>');
 }
 let iklan320kelima = function(){
 	atOptions = {
@@ -46,7 +46,7 @@ let iklan320kelima = function(){
 		'width' : 320,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/7ca078b544ff0d15bd6e2ac5b236799f/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/7ca078b544ff0d15bd6e2ac5b236799f/invoke.js"></scr' + 'ipt>');
 }
 let iklan728pertama = function(){
 	atOptions = {
@@ -57,7 +57,7 @@ let iklan728pertama = function(){
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/842fa4960db6bc726f7142d536c56686/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/842fa4960db6bc726f7142d536c56686/invoke.js"></scr' + 'ipt>');
 }
 let iklan728kedua = function(){
 	atOptions = {
@@ -68,7 +68,7 @@ let iklan728kedua = function(){
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/3c63ad8da5b1dea2a0d09d234e81dc8e/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/3c63ad8da5b1dea2a0d09d234e81dc8e/invoke.js"></scr' + 'ipt>');
 }
 let iklan728ketiga = function(){
 	atOptions = {
@@ -79,7 +79,7 @@ let iklan728ketiga = function(){
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/4bbf9956d99ec3fdf52a365e9615f37a/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/4bbf9956d99ec3fdf52a365e9615f37a/invoke.js"></scr' + 'ipt>');
 }
 let iklan728keempat = function(){
 	atOptions = {
@@ -90,7 +90,7 @@ let iklan728keempat = function(){
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/b5c0ad324a8fcf52e586c48ee64ebcbe/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/b5c0ad324a8fcf52e586c48ee64ebcbe/invoke.js"></scr' + 'ipt>');
 }
 let iklan728kelima = function(){
 	atOptions = {
@@ -101,7 +101,7 @@ let iklan728kelima = function(){
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/e2cea86a4a8c38c9a674a82f9f3c1672/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/e2cea86a4a8c38c9a674a82f9f3c1672/invoke.js"></scr' + 'ipt>');
 }
 let iklan468pertama = function(){
 	atOptions = {
@@ -111,7 +111,7 @@ let iklan468pertama = function(){
 		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/f64d9b2f3705b712bc5b315edd23cf54/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/f64d9b2f3705b712bc5b315edd23cf54/invoke.js"></scr' + 'ipt>');
 }
 let iklan468kedua = function(){
 	atOptions = {
@@ -121,7 +121,7 @@ let iklan468kedua = function(){
 		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/13837a9a268f4afe2cbb62a0766eebd8/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/13837a9a268f4afe2cbb62a0766eebd8/invoke.js"></scr' + 'ipt>');
 }
 let iklan468ketiga = function(){
 	atOptions = {
@@ -131,7 +131,7 @@ let iklan468ketiga = function(){
 		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/9327c3faa0c5c6ddc79427d2dc69b6b1/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/9327c3faa0c5c6ddc79427d2dc69b6b1/invoke.js"></scr' + 'ipt>');
 }
 let iklan468keempat = function(){
 	atOptions = {
@@ -141,7 +141,7 @@ let iklan468keempat = function(){
 		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/e0731a092a16e8b2d6018268063ec156/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/e0731a092a16e8b2d6018268063ec156/invoke.js"></scr' + 'ipt>');
 }
 let iklan468kelima = function(){
 	atOptions = {
@@ -151,7 +151,7 @@ let iklan468kelima = function(){
 		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/aebcac8e6fa3fe2b00e0651c920565d1/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/aebcac8e6fa3fe2b00e0651c920565d1/invoke.js"></scr' + 'ipt>');
 }
 let iklan300pertama = function(){
 	atOptions = {
@@ -161,7 +161,7 @@ let iklan300pertama = function(){
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/50c7dc79a92cdf95a415bc2b13cd7678/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/50c7dc79a92cdf95a415bc2b13cd7678/invoke.js"></scr' + 'ipt>');
 }
 let iklan300kedua = function(){
 	atOptions = {
@@ -171,7 +171,7 @@ let iklan300kedua = function(){
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/c8890df9dea39bcb4bd2f5e770c95479/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/c8890df9dea39bcb4bd2f5e770c95479/invoke.js"></scr' + 'ipt>');
 }
 let iklan300ketiga = function(){
 	atOptions = {
@@ -181,7 +181,7 @@ let iklan300ketiga = function(){
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/a9e06a70b6ac8d3e7f9f008fa4391242/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/a9e06a70b6ac8d3e7f9f008fa4391242/invoke.js"></scr' + 'ipt>');
 }
 let iklan300keempat = function(){
 	atOptions = {
@@ -191,7 +191,7 @@ let iklan300keempat = function(){
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/80ca87f8813a501d8aabf7a59fa25265/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/80ca87f8813a501d8aabf7a59fa25265/invoke.js"></scr' + 'ipt>');
 }
 let iklan300kelima = function(){
 	atOptions = {
@@ -201,7 +201,7 @@ let iklan300kelima = function(){
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highcpmcreativeformat.com/911a292f1d3b4df1c94af3b09e2837c0/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/911a292f1d3b4df1c94af3b09e2837c0/invoke.js"></scr' + 'ipt>');
 }
 // ads.js
 
