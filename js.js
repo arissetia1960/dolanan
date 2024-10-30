@@ -207,23 +207,24 @@ let iklan300kelima = function(){
 
 // ads.js
 
-let iklanNativeHorizontal = function(){
+let iklanNativeHorizontal = function() {
     // Memuat script iklan
     let scriptElement = document.createElement('script');
     scriptElement.async = true;
     scriptElement.setAttribute('data-cfasync', 'false');
     scriptElement.src = (location.protocol === 'https:' ? 'https:' : 'http:') + '//pl15318159.cpmrevenuegate.com/710a58144aad16eefeb2615d0b243d3b/invoke.js';
     
-    // Menambahkan script ke dalam DOM
-    document.body.appendChild(scriptElement);
-    
-    // Menambahkan div container ke dalam DOM
+    // Menambahkan div container ke dalam DOM di lokasi pemanggilan
     let divElement = document.createElement('div');
     divElement.id = 'container-710a58144aad16eefeb2615d0b243d3b';
     
-    // Menempatkan div container di tempat yang kamu butuhkan
-    document.body.appendChild(divElement);
+    // Menempatkan div container di lokasi script pemanggil
+    document.currentScript.parentNode.insertBefore(divElement, document.currentScript);
+    
+    // Menambahkan script iklan setelah div container
+    document.currentScript.parentNode.insertBefore(scriptElement, divElement.nextSibling);
 }
+
 let iklanNativeVertical = function() {
     // Memuat script iklan
     let scriptElement = document.createElement('script');
