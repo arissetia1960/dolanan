@@ -224,21 +224,21 @@ let iklanNativeHorizontal = function(){
     // Menempatkan div container di tempat yang kamu butuhkan
     document.body.appendChild(divElement);
 }
-let iklanNativeVertical = function(){
+let iklanNativeVertical = function() {
     // Memuat script iklan
     let scriptElement = document.createElement('script');
     scriptElement.async = true;
     scriptElement.setAttribute('data-cfasync', 'false');
     scriptElement.src = (location.protocol === 'https:' ? 'https:' : 'http:') + '//pl15296721.cpmrevenuegate.com/6d7791499fbd465d73e0b856cd8aac68/invoke.js';
     
-    // Menambahkan script ke dalam DOM
-    document.body.appendChild(scriptElement);
-    
-    // Menambahkan div container ke dalam DOM
+    // Menambahkan div container ke dalam DOM di lokasi pemanggilan
     let divElement = document.createElement('div');
     divElement.id = 'container-6d7791499fbd465d73e0b856cd8aac68';
     
-    // Menempatkan div container di tempat yang kamu butuhkan
-    document.body.appendChild(divElement);
+    // Menempatkan div container di lokasi script pemanggil
+    document.currentScript.parentNode.insertBefore(divElement, document.currentScript);
+    
+    // Menambahkan script iklan setelah div container
+    document.currentScript.parentNode.insertBefore(scriptElement, divElement.nextSibling);
 }
 
